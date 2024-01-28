@@ -1,0 +1,59 @@
+Metadata-Version: 2.1
+Name: drf-social-oauth2
+Version: 2.1.3
+Summary: drf-social-oauth2 is a frameworks meant to be used with Django and Django Rest Framework. drf-social-oauth2 offers support to oauth2 authentication and authorization. It's one of the easiest frameworks to integrate Oauth2 to your Django Rest Framework application. By using drf-social-oauth2 you can authenticate with major vendors such as Google, Facebook, Instagram, Github, Twitter and a ton more! 
+Home-page: https://github.com/wagnerdelima/drf-social-oauth2
+Author: Wagner de Lima
+Author-email: waglds@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Natural Language :: English
+License-File: LICENSE.txt
+Requires-Dist: djangorestframework (>=3.10.3)
+Requires-Dist: django-oauth-toolkit (>=0.12.0)
+Requires-Dist: social-auth-app-django (>=3.1.0)
+Requires-Dist: python-jose[cryptography] (>=3.3.0)
+
+Welcome to DRF-Social-OAuth2
+===================================
+
+.. image:: https://badge.fury.io/py/drf-social-oauth2.svg
+    :target: https://badge.fury.io/for/py/drf-social-oauth2
+
+.. image:: https://www.codefactor.io/repository/github/wagnerdelima/drf-social-oauth2/badge
+    :target: https://www.codefactor.io/repository/github/wagnerdelima/drf-social-oauth2/badge
+
+Installation
+------------
+
+This framework is published at the PyPI, install it with pip::
+
+    pip install drf_social_oauth2
+
+Link to documentation
+---------------------
+
+You can read the whole drf-social-oauth2's documentation at: https://drf-social-oauth2.readthedocs.io/en/latest/.
+
+Contributing
+------------
+
+Details `here <https://github.com/wagnerdelima/drf-social-oauth2/blob/master/CONTRIBUTING.md.>`_
+
+What Am I Working Next?
+^^^^^^^^^^^^^^^^^^^^^^^
+
+I will be working on the issues below. Anyone is welcome to contribute.
+
+    - Investigating Issues.
+
+
